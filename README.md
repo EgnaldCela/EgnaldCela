@@ -1,8 +1,8 @@
-# Hi there :)
+# Hi there! 👋
 
-I'm Egnald, a computer science and artificial intelligence graduate from Sapienza University of Rome, originally from Tirana, Albania, and currently based in Rome. 
+I'm Egnald, a computer science and artificial intelligence graduate from Sapienza University of Rome, originally from Tirana, Albania 🇦🇱, and currently based in Rome, Italy 🇮🇹.
 
-I deeply enjoy machine learning & AI and I spend some time studying the mathematical ideas behind machine learning and turning them into small projects (most of them are yet private...oops), contributing to my general interest in research.
+I deeply enjoy machine learning and AI, especially the mathematical ideas behind them. I often turn what I learn into small projects (*most of which are still private... oops* 😅) and this process has gradually drawn me towards research.
 
 My main interests are:
 
@@ -11,22 +11,23 @@ My main interests are:
 - hyperbolic deep learning;
 - machine learning for genomics and biological sequences.
 
-## Research and projects
+## 🔬 Research and projects
 
-- **Machine learning for genomics:** I am exploring methods for evaluating human genome assemblies using genomic structure and foundation models.
+- **Machine learning for genomics:** I am exploring methods for evaluating human genome assemblies using a specific marker sequence known as a CENP-B box. Take a look at the [preprint on arXiv](https://arxiv.org/abs/2606.11276).
 - **Safe visual AI:** my bachelor's thesis investigated how unsafe visual content can be detected, localized, and sanitized using hyperbolic representations and explainability methods.
-- **Computer vision:** I contributed to [SiMagna](https://github.com/ppietropiccolo/siMagna), a project that detects household ingredients and suggests Italian recipes, as a project for the AI Lab course @ Sapienza.
+- **Computer vision:** I contributed to [SiMagna](https://github.com/ppietropiccolo/siMagna), a project that detects household ingredients and suggests Italian recipes, as part of the AI Lab course at Sapienza.
 
-## Tutoring
+## 📚 Tutoring
 
-I have been tutoring my peers for quite a bit now, mostly in mathematics but lately I have also been tutoring at university.
-I tutor Calculus (a.a 25/26, 26/27) and Probability (a.a 25/26) during 25/26 at Sapienza. I also maintain a collection of freely accessible [Calculus I worksheets, solutions, and study materials](https://egnaldcela.github.io/calculus-tutoring/) for students in case any of you are interested in a calculus refresher.
+I have been tutoring my peers for several years, mostly in mathematics, and more recently through university tutoring appointments. At Sapienza, I tutored Calculus and Probability during the 2025/26 academic year and will continue tutoring Calculus in 2026/27.
 
-## Tools I often use
+I also maintain a collection of freely accessible [Calculus I worksheets, solutions, and study materials](https://egnaldcela.github.io/calculus-tutoring/) for anyone who might enjoy a calculus refresher.
+
+## 🛠️ Tools I often use
 
 Python, PyTorch, scikit-learn, NumPy, pandas, OpenCV, Linux, Git, Jupyter, and high-performance computing systems.
 
-## Connect
+## 📫 Connect
 
 - [Google Scholar](https://scholar.google.com/citations?user=tAeOlYMAAAAJ&hl=en)
 - [LinkedIn](https://www.linkedin.com/in/egnald-cela-23ab681a7)
