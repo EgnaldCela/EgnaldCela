@@ -2,7 +2,7 @@
 
 I'm Egnald, a computer science and artificial intelligence graduate from Sapienza University of Rome, originally from Tirana, Albania 🇦🇱, and currently based in Rome, Italy 🇮🇹.
 
-I deeply enjoy machine learning and AI, especially the mathematical ideas behind them. I often turn what I learn into small projects (*most of which are still private... oops* 😅) and this process has gradually drawn me towards research.
+I deeply enjoy machine learning and AI, especially the mathematical ideas behind them. I often turn what I learn into small projects and this process has gradually drawn me towards research.
 
 My main interests are:
 
